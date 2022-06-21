@@ -1,0 +1,13 @@
+
+@media(min-width:738px){
+    body{
+        background-image: url('./img/noticias.webp');
+        background-size: cover;
+        background-attachment: fixed;
+        
+     }
+}
+
+.padding {
+    padding-bottom: 10px;
+}
